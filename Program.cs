@@ -15,6 +15,7 @@ namespace teste
             Console.WriteLine("Boa noite!");
             Console.WriteLine("tenha um bom dia?");
             Console.WriteLine("tchau");
+            Console.WriteLine("123");
             Console.WriteLine("--------------------------");
 
             Console.ReadLine();
