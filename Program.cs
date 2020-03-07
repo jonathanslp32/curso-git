@@ -10,10 +10,12 @@ namespace teste
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("--------------------------");
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Boa noite!");
             Console.WriteLine("tenha um bom dia?");
             Console.WriteLine("tchau");
+            Console.WriteLine("--------------------------");
 
             Console.ReadLine();
         }
