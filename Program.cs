@@ -13,6 +13,7 @@ namespace teste
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Boa noite!");
             Console.WriteLine("tenha um bom dia?");
+            Console.WriteLine("tchau");
 
             Console.ReadLine();
         }
